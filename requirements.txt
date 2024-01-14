@@ -1,0 +1,6 @@
+streamlit
+telebot
+beautifulsoup4
+requests
+libtorrent
+python-libtorrent
